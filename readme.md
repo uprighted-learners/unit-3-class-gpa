@@ -34,18 +34,18 @@ Your work will result in:
 
 ### Create the `gpa()` function
 
-- [ ] Within `gpa`'s code block, create the variable `gradesToWeight` whose value is the `Object.keys()` method, with `object` passed to it 
+- [ ] Within `gpa`'s code block, create the variable `gradesToWeight` whose value is the `Object.keys()` method, with `someGrades` passed to it
 - [ ] Create two variables whose value is `0`: `gradeSum` and `weightSum`.
 - [ ] Call the `forEach` array method on `gradesToWeight`, taking the parameter of `key`.
-- [ ] Within the `forEach` code block, we will redefine `gradeSum` with a new equation. To access the correct `key: value` pair, combine `object` with `key`, utilizing bracket notation 
+- [ ] Within the `forEach` code block, we will redefine `gradeSum` with a new equation. To access the correct `key: value` pair, combine `someGrades` with `key`, utilizing bracket notation
 - [ ] Utilizing the bracket notation, multiply the `grade` by `weight` values and add back `gradeSum`.
 - [ ] Utilizing the same bracket notation, redefine `weightSum` as an equation that adds the `weight` value to `weightSum`.
 - [ ] Outside the scope of the `forEach` method but within the scope of the `gpa` function, create the variable `weightedGrade` and have its value be `gradeSum` divided by `weightSum`.
-- [ ] Below `weightedGrade`'s definition, print it to the console.
+- [ ] `return` `weightedGrades` from the function
 
 ### Invoke the `gpa()` Function
 
-- [ ] Beneath the definition of the `gpa` function, invoke it and pass in `grades` as its argument.
+- [ ] Beneath the definition of the `gpa` function, invoke it and pass in `grades` as its argument. Print out the result to the console
 
 ## Review
 
