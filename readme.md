@@ -2,7 +2,7 @@
 
 ## Objective
 
-In this lab we will calculate an average GPA score based on multiple grade values within an object.
+In this exercise we will calculate an average GPA score based on multiple grade values within an object.
 
 ## Learning
 
@@ -17,7 +17,7 @@ Topics:
 
 ## Achieving
 
-In this lab, we will be creating software that can receive a series of grades as an Object and will return a weighted overall grade.
+In this exercise, we will be creating software that can receive a series of grades as an Object and will return a weighted overall grade.
 
 Your work will result in:
 
@@ -49,7 +49,7 @@ Your work will result in:
 
 ## Review
 
-In this lab, we created a piece of software that can calculate a weighted GPA based on a set of grades it receives as an Object.
+In this exercise, we created a piece of software that can calculate a weighted GPA based on a set of grades it receives as an Object.
 
 The software should:
 
